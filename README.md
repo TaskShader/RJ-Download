@@ -1,3 +1,5 @@
+# Based on https://github.com/SofiaXu/PSAsmrOnlineClient
+
 To use the script, you'll need to install the required dependencies:
 `pip install requests tqdm`
 
