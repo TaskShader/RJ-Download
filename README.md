@@ -3,7 +3,7 @@
 To use the script, you'll need to install the required dependencies:
 `pip install requests tqdm`
 
-# 1 First, Login
+# First, Login
 
 python script.py --login --username your_username --password your_password
 
